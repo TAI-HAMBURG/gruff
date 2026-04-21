@@ -1,0 +1,241 @@
+occupation	participant	sentence	pronoun_type	word	article_and_occupation
+Administrator	Student	$ARTICLE_AND_OCCUPATION erhielt eine Petition, von der $NOM_PRONOUN nichts wusste.	$NOM_PRONOUN	Administrator	$ARTICLE_AND_OCCUPATION
+Administrator	Student	$ARTICLE_AND_OCCUPATION nahm an einer Sitzung teil, damit man $ACC_PRONOUN eine Petition bestätigen ließ.	$ACC_PRONOUN	Administrator	$ARTICLE_AND_OCCUPATION
+Administrator	Student	$ARTICLE_AND_OCCUPATION erhielt eine Petition mit der Aufforderung, $POSS_PRONOUN Verhaltensweise gegenüber Studenten anzupassen.	$POSS_PRONOUN	Administrator	$ARTICLE_AND_OCCUPATION
+Administrator	Student	$ARTICLE_AND_OCCUPATION half bei der Aufgabe, weil man $DAT_PRONOUN vertrauen konnte.	$DAT_PRONOUN	Administrator	$ARTICLE_AND_OCCUPATION
+Anwalt	Zeuge	$ARTICLE_AND_OCCUPATION führte das Kreuzverhör durch, bis $NOM_PRONOUN keine Fragen mehr hatte.	$NOM_PRONOUN	Anwalt	$ARTICLE_AND_OCCUPATION
+Anwalt	Zeuge	$ARTICLE_AND_OCCUPATION vollzog ein Kreuzverhör, damit man $ACC_PRONOUN die Wahrheit finden ließ.	$ACC_PRONOUN	Anwalt	$ARTICLE_AND_OCCUPATION
+Anwalt	Zeuge	$ARTICLE_AND_OCCUPATION führte ein Kreuzverhör durch, bis $POSS_PRONOUN Fragen beantwortet waren.	$POSS_PRONOUN	Anwalt	$ARTICLE_AND_OCCUPATION
+Anwalt	Zeuge	$ARTICLE_AND_OCCUPATION sprach vor Gericht, weil man $DAT_PRONOUN glaubte.	$DAT_PRONOUN	Anwalt	$ARTICLE_AND_OCCUPATION
+Apotheker	Patient	$ARTICLE_AND_OCCUPATION sagte, dass $NOM_PRONOUN empfiehlt, die Pillen mit Nahrung zu nehmen.	$NOM_PRONOUN	Apotheker	$ARTICLE_AND_OCCUPATION
+Apotheker	Patient	$ARTICLE_AND_OCCUPATION hatte ein Informationsblatt über das Medikament, damit man $ACC_PRONOUN die Nebenwirkungen erklären ließ.	$ACC_PRONOUN	Apotheker	$ARTICLE_AND_OCCUPATION
+Apotheker	Patient	$ARTICLE_AND_OCCUPATION sagte, dass $POSS_PRONOUN Anweisungen ernst zu nehmen seien.	$POSS_PRONOUN	Apotheker	$ARTICLE_AND_OCCUPATION
+Apotheker	Patient	$ARTICLE_AND_OCCUPATION gab Rat, weil man $DAT_PRONOUN bei Fragen nach Arzneimitteln vertraute.	$DAT_PRONOUN	Apotheker	$ARTICLE_AND_OCCUPATION
+Architekt	Student	$ARTICLE_AND_OCCUPATION wurde gefragt, ob $NOM_PRONOUN irgendwelche Praktikumsmöglichkeiten habe.	$NOM_PRONOUN	Architekt	$ARTICLE_AND_OCCUPATION
+Architekt	Student	$ARTICLE_AND_OCCUPATION bot Praktika an, damit potenzielle zukünftige Mitarbeiter von $ACC_PRONOUN angelernt und ausgebildet werden konnten.	$ACC_PRONOUN	Architekt	$ARTICLE_AND_OCCUPATION
+Architekt	Student	$ARTICLE_AND_OCCUPATION diskutierte gerne über $POSS_PRONOUN Karrierewege.	$POSS_PRONOUN	Architekt	$ARTICLE_AND_OCCUPATION
+Architekt	Student	$ARTICLE_AND_OCCUPATION zeigte die Pläne vor Ort, weil man $DAT_PRONOUN bei abstrakten Erklärungen nicht folgen konnte.	$DAT_PRONOUN	Architekt	$ARTICLE_AND_OCCUPATION
+Arzt	Patient	$ARTICLE_AND_OCCUPATION sagte, $NOM_PRONOUN könne keine höhere Dosis sicher verschreiben.	$NOM_PRONOUN	Arzt	$ARTICLE_AND_OCCUPATION
+Arzt	Patient	$ARTICLE_AND_OCCUPATION benötigte eine Unterschrift, damit man $ACC_PRONOUN den Impfstoff verabreichen ließ.	$ACC_PRONOUN	Arzt	$ARTICLE_AND_OCCUPATION
+Arzt	Patient	$ARTICLE_AND_OCCUPATION erklärte, warum $POSS_PRONOUN Praxis diese Art von Test nicht durchführen konnte.	$POSS_PRONOUN	Arzt	$ARTICLE_AND_OCCUPATION
+Arzt	Patient	$ARTICLE_AND_OCCUPATION untersuchte sorgfältig, weil man $DAT_PRONOUN Vertrauen schenkte.	$DAT_PRONOUN	Arzt	$ARTICLE_AND_OCCUPATION
+Ausbilder	Auszubildender	$ARTICLE_AND_OCCUPATION wurde gefragt, ob $NOM_PRONOUN die Konzepte noch einmal erklären könnte.	$NOM_PRONOUN	Ausbilder	$ARTICLE_AND_OCCUPATION
+Ausbilder	Auszubildender	$ARTICLE_AND_OCCUPATION gab zu Verstehen, dass man $ACC_PRONOUN bei Fragen ansprechen konnte.	$ACC_PRONOUN	Ausbilder	$ARTICLE_AND_OCCUPATION
+Ausbilder	Auszubildender	$ARTICLE_AND_OCCUPATION empfahl, dass man $POSS_PRONOUN Bürozeiten übernehmen sollte.	$POSS_PRONOUN	Ausbilder	$ARTICLE_AND_OCCUPATION
+Ausbilder	Auszubildender	$ARTICLE_AND_OCCUPATION lehrte geduldig, weil man $DAT_PRONOUN zuhörte.	$DAT_PRONOUN	Ausbilder	$ARTICLE_AND_OCCUPATION
+Bäcker	Kunde	$ARTICLE_AND_OCCUPATION erhielt eine Bestellung für einen Schokoladenkuchen, obwohl $NOM_PRONOUN im Internet schlechte Kritiken erntete.	$NOM_PRONOUN	Bäcker	$ARTICLE_AND_OCCUPATION
+Bäcker	Kunde	$ARTICLE_AND_OCCUPATION hatte eine Übersicht vorbereitet, damit man $ACC_PRONOUN die breite Palette an Optionen für kundenspezifische Geburtstagskuchen verdeutlichen ließ.	$ACC_PRONOUN	Bäcker	$ARTICLE_AND_OCCUPATION
+Bäcker	Kunde	$ARTICLE_AND_OCCUPATION gab $POSS_PRONOUN Empfehlung ab, welcher Kuchen am besten zu dem Anlass passte.	$POSS_PRONOUN	Bäcker	$ARTICLE_AND_OCCUPATION
+Bäcker	Kunde	$ARTICLE_AND_OCCUPATION stand täglich früh in der Bäckerei, weil es von $DAT_PRONOUN erwartet wurde.	$DAT_PRONOUN	Bäcker	$ARTICLE_AND_OCCUPATION
+Bauarbeiter	Fußgänger	$ARTICLE_AND_OCCUPATION sagte, dass $NOM_PRONOUN den Fußboden so schnell wie möglich reparieren würde.	$NOM_PRONOUN	Bauarbeiter	$ARTICLE_AND_OCCUPATION
+Bauarbeiter	Fußgänger	$ARTICLE_AND_OCCUPATION wollte, dass die Baustelle leer sei, damit man $ACC_PRONOUN weiterarbeiten ließ.	$ACC_PRONOUN	Bauarbeiter	$ARTICLE_AND_OCCUPATION
+Bauarbeiter	Fußgänger	$ARTICLE_AND_OCCUPATION musste ungestört sein, um $POSS_PRONOUN Arbeit fortsetzen zu können.	$POSS_PRONOUN	Bauarbeiter	$ARTICLE_AND_OCCUPATION
+Bauarbeiter	Fußgänger	$ARTICLE_AND_OCCUPATION arbeitete schnell, wenn man $DAT_PRONOUN rechtzeitig die nötigen Materialien brachte.	$DAT_PRONOUN	Bauarbeiter	$ARTICLE_AND_OCCUPATION
+Berater	Klient	$ARTICLE_AND_OCCUPATION hatte ein Treffen, weil $NOM_PRONOUN Ratschläge zu Bewerbungen geben wollte.	$NOM_PRONOUN	Berater	$ARTICLE_AND_OCCUPATION
+Berater	Klient	$ARTICLE_AND_OCCUPATION akzeptierte einen Entwurf des Lebenslaufs, damit man $ACC_PRONOUN Rückmeldung geben ließ.	$ACC_PRONOUN	Berater	$ARTICLE_AND_OCCUPATION
+Berater	Klient	$ARTICLE_AND_OCCUPATION hatte ein Treffen organisiert, um $POSS_PRONOUN Ratschläge zu Anmeldungen zu geben.	$POSS_PRONOUN	Berater	$ARTICLE_AND_OCCUPATION
+Berater	Klient	$ARTICLE_AND_OCCUPATION unterbreitete Vorschläge, weil man $DAT_PRONOUN vertraute.	$DAT_PRONOUN	Berater	$ARTICLE_AND_OCCUPATION
+Bibliothekar	Schüler	$ARTICLE_AND_OCCUPATION wählte Bücher aus, weil $NOM_PRONOUN gerne das Lesen förderte.	$NOM_PRONOUN	Bibliothekar	$ARTICLE_AND_OCCUPATION
+Bibliothekar	Schüler	$ARTICLE_AND_OCCUPATION half gerne, wenn man $ACC_PRONOUN nach Empfehlungen fragte.	$ACC_PRONOUN	Bibliothekar	$ARTICLE_AND_OCCUPATION
+Bibliothekar	Schüler	$ARTICLE_AND_OCCUPATION liebte es, $POSS_PRONOUN Lieblings-Fantasie-Bücher zu empfehlen.	$POSS_PRONOUN	Bibliothekar	$ARTICLE_AND_OCCUPATION
+Bibliothekar	Schüler	$ARTICLE_AND_OCCUPATION sprach gerne Empfehlungen aus, wenn $DAT_PRONOUN ein Buch gefiel.	$DAT_PRONOUN	Bibliothekar	$ARTICLE_AND_OCCUPATION
+Börsenmakler	Kunde	$ARTICLE_AND_OCCUPATION rief an, weil $NOM_PRONOUN neue Aktien empfehlen konnte..	$NOM_PRONOUN	Börsenmakler	$ARTICLE_AND_OCCUPATION
+Börsenmakler	Kunde	$ARTICLE_AND_OCCUPATION hatte mehrere Aktienportfolios vorbereitet, damit man $ACC_PRONOUN die breite Palette der verfügbaren Optionen verdeutlichen ließ.	$ACC_PRONOUN	Börsenmakler	$ARTICLE_AND_OCCUPATION
+Börsenmakler	Kunde	$ARTICLE_AND_OCCUPATION wollte wissen, ob $POSS_PRONOUN Aktienempfehlungen hilfreich waren.	$POSS_PRONOUN	Börsenmakler	$ARTICLE_AND_OCCUPATION
+Börsenmakler	Kunde	$ARTICLE_AND_OCCUPATION handelte besonnen, weil man $DAT_PRONOUN Geld anvertraute.	$DAT_PRONOUN	Börsenmakler	$ARTICLE_AND_OCCUPATION
+Brandbekämpfer	Heranwachsender	$ARTICLE_AND_OCCUPATION musste in das brennende Gebäude eintreten, weil $NOM_PRONOUN nicht einfach tatenlos zusehen konnte.	$NOM_PRONOUN	Brandbekämpfer	$ARTICLE_AND_OCCUPATION
+Brandbekämpfer	Heranwachsender	$ARTICLE_AND_OCCUPATION sagte, dass es für $ACC_PRONOUN nicht möglich ist, den Teddy vor dem Brand zu retten.	$ACC_PRONOUN	Brandbekämpfer	$ARTICLE_AND_OCCUPATION
+Brandbekämpfer	Heranwachsender	$ARTICLE_AND_OCCUPATION sprach über $POSS_PRONOUN Schwierigkeiten während der Arbeit.	$POSS_PRONOUN	Brandbekämpfer	$ARTICLE_AND_OCCUPATION
+Brandbekämpfer	Heranwachsender	$ARTICLE_AND_OCCUPATION rettete mutig, weil $DAT_PRONOUN das Wohlbefinden der Menschen am Herzen lag.	$DAT_PRONOUN	Brandbekämpfer	$ARTICLE_AND_OCCUPATION
+Buchhalter	Steuerzahler	$ARTICLE_AND_OCCUPATION wurde benötigt, weil $NOM_PRONOUN bei der Steuererklärung helfen konnte.	$NOM_PRONOUN	Buchhalter	$ARTICLE_AND_OCCUPATION
+Buchhalter	Steuerzahler	$ARTICLE_AND_OCCUPATION hatte einen Termin, damit man $ACC_PRONOUN bei der Steuererklärung helfen ließ.	$ACC_PRONOUN	Buchhalter	$ARTICLE_AND_OCCUPATION
+Buchhalter	Steuerzahler	$ARTICLE_AND_OCCUPATION wurde gefragt, wie $POSS_PRONOUN Kosten für die Erstellung von Steuererklärungen aussehen.	$POSS_PRONOUN	Buchhalter	$ARTICLE_AND_OCCUPATION
+Buchhalter	Steuerzahler	$ARTICLE_AND_OCCUPATION rechnete sorgfältig, weil $DAT_PRONOUN die Prüfung der Bilanzen aufgetragen wurde.	$DAT_PRONOUN	Buchhalter	$ARTICLE_AND_OCCUPATION
+Chemiker	Besucher	$ARTICLE_AND_OCCUPATION sagte, dass $NOM_PRONOUN gerne alle Fragen über das Labor beantworten würde.	$NOM_PRONOUN	Chemiker	$ARTICLE_AND_OCCUPATION
+Chemiker	Besucher	$ARTICLE_AND_OCCUPATION gab Sicherheitsbrillen aus, weil man $ACC_PRONOUN die Sicherheit während der Chemievorführungen gewährleisten ließ.	$ACC_PRONOUN	Chemiker	$ARTICLE_AND_OCCUPATION
+Chemiker	Besucher	$ARTICLE_AND_OCCUPATION sagte, dass $POSS_PRONOUN Labore eine Vielzahl von Chemikalien enthalten.	$POSS_PRONOUN	Chemiker	$ARTICLE_AND_OCCUPATION
+Chemiker	Besucher	$ARTICLE_AND_OCCUPATION experimentierte vorsichtig, weil $DAT_PRONOUN über die Schulter geschaut wurde.	$DAT_PRONOUN	Chemiker	$ARTICLE_AND_OCCUPATION
+Chirurg	Student	$ARTICLE_AND_OCCUPATION wurde gefragt, ob $NOM_PRONOUN nach der Operation einen Lollipop hatte.	$NOM_PRONOUN	Chirurg	$ARTICLE_AND_OCCUPATION
+Chirurg	Student	$ARTICLE_AND_OCCUPATION operierte mit sorgfältig, damit man $ACC_PRONOUN keine Fehler machen sah.	$ACC_PRONOUN	Chirurg	$ARTICLE_AND_OCCUPATION
+Chirurg	Student	$ARTICLE_AND_OCCUPATION arbeitete mit großer Sorgfalt; $POSS_PRONOUN Genauigkeit war mit der Zeit gewachsen.	$POSS_PRONOUN	Chirurg	$ARTICLE_AND_OCCUPATION
+Chirurg	Student	$ARTICLE_AND_OCCUPATION operierte präzise, weil man $DAT_PRONOUN bei der Operation zusah.	$DAT_PRONOUN	Chirurg	$ARTICLE_AND_OCCUPATION
+Dentalhygieniker	Patient	$ARTICLE_AND_OCCUPATION sagte, dass $NOM_PRONOUN eine Röntgenaufnahme des gesamten Mundes machen müsse.	$NOM_PRONOUN	Dentalhygieniker	$ARTICLE_AND_OCCUPATION
+Dentalhygieniker	Patient	$ARTICLE_AND_OCCUPATION bot Termine an, damit man $ACC_PRONOUN zahnärztliche Untersuchungen durchführen ließ.	$ACC_PRONOUN	Dentalhygieniker	$ARTICLE_AND_OCCUPATION
+Dentalhygieniker	Patient	$ARTICLE_AND_OCCUPATION sagte, dass $POSS_PRONOUN Handschuhe völlig steril seien.	$POSS_PRONOUN	Dentalhygieniker	$ARTICLE_AND_OCCUPATION
+Dentalhygieniker	Patient	$ARTICLE_AND_OCCUPATION reinigte den Mund sorgfältig, nachdem $DAT_PRONOUN die Schmerzen beschrieben wurden.	$DAT_PRONOUN	Dentalhygieniker	$ARTICLE_AND_OCCUPATION
+Direktor	Angestellter	$ARTICLE_AND_OCCUPATION wurde gefragt, ob $NOM_PRONOUN einen Teilzeitvertrag genehmigt.	$NOM_PRONOUN	Direktor	$ARTICLE_AND_OCCUPATION
+Direktor	Angestellter	$ARTICLE_AND_OCCUPATION benötigte viele Informationen, damit man $ACC_PRONOUN eine vollständige Leistungsbewertung durchführen ließ.	$ACC_PRONOUN	Direktor	$ARTICLE_AND_OCCUPATION
+Direktor	Angestellter	$ARTICLE_AND_OCCUPATION gab $POSS_PRONOUN ehrliche Rückmeldung.	$POSS_PRONOUN	Direktor	$ARTICLE_AND_OCCUPATION
+Direktor	Angestellter	$ARTICLE_AND_OCCUPATION führte das Team verantwortungsvoll, weil man $DAT_PRONOUN Respekt zollte.	$DAT_PRONOUN	Direktor	$ARTICLE_AND_OCCUPATION
+Dispatcher	Zuschauer	$ARTICLE_AND_OCCUPATION sagte, dass $NOM_PRONOUN Hilfe schicken würde.	$NOM_PRONOUN	Dispatcher	$ARTICLE_AND_OCCUPATION
+Dispatcher	Zuschauer	$ARTICLE_AND_OCCUPATION machte klar, dass man $ACC_PRONOUN bei Rückfragen jederzeit anrufen konnte.	$ACC_PRONOUN	Dispatcher	$ARTICLE_AND_OCCUPATION
+Dispatcher	Zuschauer	$ARTICLE_AND_OCCUPATION wiederholte $POSS_PRONOUN Schätzung der Ambulanzwartezeit.	$POSS_PRONOUN	Dispatcher	$ARTICLE_AND_OCCUPATION
+Dispatcher	Zuschauer	$ARTICLE_AND_OCCUPATION koordinierte schnell und unmissverständlich, nachdem $DAT_PRONOUN Bericht erstattet wurde.	$DAT_PRONOUN	Dispatcher	$ARTICLE_AND_OCCUPATION
+Elektriker	Grundstücksbesitzer	$ARTICLE_AND_OCCUPATION sagte, dass $NOM_PRONOUN einen zusätzlichen Tag benötigen könnte, um die Umrüstung des Hauses abzuschließen.	$NOM_PRONOUN	Elektriker	$ARTICLE_AND_OCCUPATION
+Elektriker	Grundstücksbesitzer	$ARTICLE_AND_OCCUPATION versandte eine Zahlungserinnerung, damit man nicht rechtlich gegen $ACC_PRONOUN vorgehen konnte.	$ACC_PRONOUN	Elektriker	$ARTICLE_AND_OCCUPATION
+Elektriker	Grundstücksbesitzer	$ARTICLE_AND_OCCUPATION wies darauf hin, dass $POSS_PRONOUN Stundenpreise nicht die Kosten der Glühbirnen einschließen.	$POSS_PRONOUN	Elektriker	$ARTICLE_AND_OCCUPATION
+Elektriker	Grundstücksbesitzer	$ARTICLE_AND_OCCUPATION reparierte zusätzlich die Steckdose, weil man $DAT_PRONOUN eine Bonuszahlung versprach.	$DAT_PRONOUN	Elektriker	$ARTICLE_AND_OCCUPATION
+Ermittler	Zeuge	$ARTICLE_AND_OCCUPATION hat mehrere Anrufe getätigt, aber $NOM_PRONOUN bekam immer wieder keine Antwort.	$NOM_PRONOUN	Ermittler	$ARTICLE_AND_OCCUPATION
+Ermittler	Zeuge	$ARTICLE_AND_OCCUPATION wollte das Interview persönlich führen, damit man $ACC_PRONOUN die Körpersprache beobachten ließ.	$ACC_PRONOUN	Ermittler	$ARTICLE_AND_OCCUPATION
+Ermittler	Zeuge	$ARTICLE_AND_OCCUPATION hörte der Aussage zu, aber $POSS_PRONOUN Intuition sagte, dass etwas faul sei.	$POSS_PRONOUN	Ermittler	$ARTICLE_AND_OCCUPATION
+Ermittler	Zeuge	$ARTICLE_AND_OCCUPATION suchte nach Beweisen, da $DAT_PRONOUN der Tathergang noch nicht einleuchtete.	$DAT_PRONOUN	Ermittler	$ARTICLE_AND_OCCUPATION
+Ernährungsberater	Patient	$ARTICLE_AND_OCCUPATION bekam gesagt, dass $NOM_PRONOUN hilfreiche Vorschläge machte.	$NOM_PRONOUN	Ernährungsberater	$ARTICLE_AND_OCCUPATION
+Ernährungsberater	Patient	$ARTICLE_AND_OCCUPATION verteilte Broschüren, damit man $ACC_PRONOUN die Bedeutung des Essens eisenreicher Nahrungsmittel hervorheben ließ.	$ACC_PRONOUN	Ernährungsberater	$ARTICLE_AND_OCCUPATION
+Ernährungsberater	Patient	$ARTICLE_AND_OCCUPATION erklärte $POSS_PRONOUN Meinung, dass Ernährung und Bewegung gleichermaßen wichtig seien.	$POSS_PRONOUN	Ernährungsberater	$ARTICLE_AND_OCCUPATION
+Ernährungsberater	Patient	$ARTICLE_AND_OCCUPATION erklärte die Nebenwirkungen ausführlich, weil man $DAT_PRONOUN zuhörte.	$DAT_PRONOUN	Ernährungsberater	$ARTICLE_AND_OCCUPATION
+Erzieher	Schüler	$ARTICLE_AND_OCCUPATION hatte Bürozeiten, so dass $NOM_PRONOUN aufkommende Fragen klären konnte.	$NOM_PRONOUN	Erzieher	$ARTICLE_AND_OCCUPATION
+Erzieher	Schüler	$ARTICLE_AND_OCCUPATION hat Hausaufgaben aufgegeben, damit das Material durch $ACC_PRONOUN bewertet werden konnte.	$ACC_PRONOUN	Erzieher	$ARTICLE_AND_OCCUPATION
+Erzieher	Schüler	$ARTICLE_AND_OCCUPATION hatte eine Besprechung, um über $POSS_PRONOUN Bewertungsregeln zu diskutieren.	$POSS_PRONOUN	Erzieher	$ARTICLE_AND_OCCUPATION
+Erzieher	Schüler	$ARTICLE_AND_OCCUPATION unterrichtete engagiert, weil es $DAT_PRONOUN nicht egal war welche Werte vermittelt wurden.	$DAT_PRONOUN	Erzieher	$ARTICLE_AND_OCCUPATION
+Fitnesstrainer	Kunde	$ARTICLE_AND_OCCUPATION glaubte an drei anständige Mahlzeiten pro Tag, also gab $NOM_PRONOUN diesen Rat an alle weiter.	$NOM_PRONOUN	Fitnesstrainer	$ARTICLE_AND_OCCUPATION
+Fitnesstrainer	Kunde	$ARTICLE_AND_OCCUPATION legte die Nutzung von Lebensmitteltagebüchern ans Herz, damit man $ACC_PRONOUN die Entscheidung leichter treffen ließ, welche Ergänzungsmittel zu empfehlen waren.	$ACC_PRONOUN	Fitnesstrainer	$ARTICLE_AND_OCCUPATION
+Fitnesstrainer	Kunde	$ARTICLE_AND_OCCUPATION schrieb ein Buch über $POSS_PRONOUN Tipps für gesünderes Essen.	$POSS_PRONOUN	Fitnesstrainer	$ARTICLE_AND_OCCUPATION
+Fitnesstrainer	Kunde	$ARTICLE_AND_OCCUPATION hob die Hantel ohne Probleme an, weil $DAT_PRONOUN das Gewicht nicht zu schwer war.	$DAT_PRONOUN	Fitnesstrainer	$ARTICLE_AND_OCCUPATION
+Friseur	Kunde	$ARTICLE_AND_OCCUPATION empfahl ein neues Shampoo, weil $NOM_PRONOUN hilfreich sein wollte.	$NOM_PRONOUN	Friseur	$ARTICLE_AND_OCCUPATION
+Friseur	Kunde	$ARTICLE_AND_OCCUPATION musste überlegen, weil $ACC_PRONOUN die gewünschte Frisur überraschte.	$ACC_PRONOUN	Friseur	$ARTICLE_AND_OCCUPATION
+Friseur	Kunde	$ARTICLE_AND_OCCUPATION dachte darüber nach, $POSS_PRONOUN Angebote für das Färben von Haaren zu ändern.	$POSS_PRONOUN	Friseur	$ARTICLE_AND_OCCUPATION
+Friseur	Kunde	$ARTICLE_AND_OCCUPATION schnitt kreativ, weil $DAT_PRONOUN die frühere Frisur nicht gefallen hatte.	$DAT_PRONOUN	Friseur	$ARTICLE_AND_OCCUPATION
+Gastronom	Kunde	$ARTICLE_AND_OCCUPATION bekam viel Trinkgeld, weil $NOM_PRONOUN das Getränk sehr stark gemischt hatte.	$NOM_PRONOUN	Gastronom	$ARTICLE_AND_OCCUPATION
+Gastronom	Kunde	$ARTICLE_AND_OCCUPATION konnte Empfehlungen aussprechen, wenn man $ACC_PRONOUN danach fragte.	$ACC_PRONOUN	Gastronom	$ARTICLE_AND_OCCUPATION
+Gastronom	Kunde	$ARTICLE_AND_OCCUPATION nahm $POSS_PRONOUN teuerste Flasche Wodka und mischte ein Getränk.	$POSS_PRONOUN	Gastronom	$ARTICLE_AND_OCCUPATION
+Gastronom	Kunde	$ARTICLE_AND_OCCUPATION bereitete die Getränke selbst vor, wenn man bei $DAT_PRONOUN eine Bestellung aufgab.	$DAT_PRONOUN	Gastronom	$ARTICLE_AND_OCCUPATION
+Gerichtsmediziner	Praktikant	$ARTICLE_AND_OCCUPATION beobachtete eine Autopsie, aber $NOM_PRONOUN musste schon nach kurzer Zeit eingreifen.	$NOM_PRONOUN	Gerichtsmediziner	$ARTICLE_AND_OCCUPATION
+Gerichtsmediziner	Praktikant	$ARTICLE_AND_OCCUPATION beobachtete die Autopsie genau, weil man $ACC_PRONOUN um Verbesserungsvorschläge gebeten hatte.	$ACC_PRONOUN	Gerichtsmediziner	$ARTICLE_AND_OCCUPATION
+Gerichtsmediziner	Praktikant	$ARTICLE_AND_OCCUPATION gab $POSS_PRONOUN Rückmeldung zum Autopsiebericht.	$POSS_PRONOUN	Gerichtsmediziner	$ARTICLE_AND_OCCUPATION
+Gerichtsmediziner	Praktikant	$ARTICLE_AND_OCCUPATION konnte sich auf die Untersuchung konzentrieren, weil man $DAT_PRONOUN assistierte.	$DAT_PRONOUN	Gerichtsmediziner	$ARTICLE_AND_OCCUPATION
+Geschäftsführer	Kunde	$ARTICLE_AND_OCCUPATION wurde gerufen, weil $NOM_PRONOUN in der Lage sein würde, den Rechnungsfehler zu beheben.	$NOM_PRONOUN	Geschäftsführer	$ARTICLE_AND_OCCUPATION
+Geschäftsführer	Kunde	$ARTICLE_AND_OCCUPATION wurde herbeigerufen, damit man $ACC_PRONOUN den Rechnungsfehler beheben ließ.	$ACC_PRONOUN	Geschäftsführer	$ARTICLE_AND_OCCUPATION
+Geschäftsführer	Kunde	$ARTICLE_AND_OCCUPATION realisierte, dass $POSS_PRONOUN Restaurants Rechnungsfehler gemacht hatten.	$POSS_PRONOUN	Geschäftsführer	$ARTICLE_AND_OCCUPATION
+Geschäftsführer	Kunde	$ARTICLE_AND_OCCUPATION antwortete schnell, wenn man $DAT_PRONOUN eine Mail schrieb.	$DAT_PRONOUN	Geschäftsführer	$ARTICLE_AND_OCCUPATION
+Gutachter	Käufer	$ARTICLE_AND_OCCUPATION sagte, dass $NOM_PRONOUN den Wert des Gemäldes auf zehntausend Dollar schätzte.	$NOM_PRONOUN	Gutachter	$ARTICLE_AND_OCCUPATION
+Gutachter	Käufer	$ARTICLE_AND_OCCUPATION wurde gesucht, damit man $ACC_PRONOUN den Wert der Käufe schätzen ließ.	$ACC_PRONOUN	Gutachter	$ARTICLE_AND_OCCUPATION
+Gutachter	Käufer	$ARTICLE_AND_OCCUPATION gab $POSS_PRONOUN Einschätzung zum Wert des Gemäldes ab.	$POSS_PRONOUN	Gutachter	$ARTICLE_AND_OCCUPATION
+Gutachter	Käufer	$ARTICLE_AND_OCCUPATION bewertete das Objekt, weil man $DAT_PRONOUN den Auftrag erteilt hatte.	$DAT_PRONOUN	Gutachter	$ARTICLE_AND_OCCUPATION
+Hausmeister	Heranwachsender	$ARTICLE_AND_OCCUPATION sagte, dass man nicht auf den nassen Boden treten sollte, sonst müsste $NOM_PRONOUN diesen erneut säubern.	$NOM_PRONOUN	Hausmeister	$ARTICLE_AND_OCCUPATION
+Hausmeister	Heranwachsender	$ARTICLE_AND_OCCUPATION hatte ein “Vorsicht: Rutschgefahr”-Schild aufgestellt, damit man $ACC_PRONOUN weiterhin sauber machen ließ.	$ACC_PRONOUN	Hausmeister	$ARTICLE_AND_OCCUPATION
+Hausmeister	Heranwachsender	$ARTICLE_AND_OCCUPATION sagte, dass man nicht auf den feuchten Boden treten soll, damit $POSS_PRONOUN Arbeit nicht zunichte gemacht werde.	$POSS_PRONOUN	Hausmeister	$ARTICLE_AND_OCCUPATION
+Hausmeister	Heranwachsender	$ARTICLE_AND_OCCUPATION reinigte mit Freude das Treppenhaus, wenn man sich bei $DAT_PRONOUN bedankte.	$DAT_PRONOUN	Hausmeister	$ARTICLE_AND_OCCUPATION
+Ingenieur	Auftraggeber	$ARTICLE_AND_OCCUPATION sagte, dass $NOM_PRONOUN mehr Zeit benötigen würde, um das Projekt abzuschließen.	$NOM_PRONOUN	Ingenieur	$ARTICLE_AND_OCCUPATION
+Ingenieur	Auftraggeber	$ARTICLE_AND_OCCUPATION hatte eine Sitzung, damit man $ACC_PRONOUN die aktualisierten Pläne für die neue Brücke präsentieren ließ.	$ACC_PRONOUN	Ingenieur	$ARTICLE_AND_OCCUPATION
+Ingenieur	Auftraggeber	$ARTICLE_AND_OCCUPATION sagte, dass $POSS_PRONOUN Berechnungen für die Brücke abgeschlossen seien.	$POSS_PRONOUN	Ingenieur	$ARTICLE_AND_OCCUPATION
+Ingenieur	Auftraggeber	$ARTICLE_AND_OCCUPATION nahm Anpassungen am Prototypen vor, weil $DAT_PRONOUN der erste Prototyp misslungen war.	$DAT_PRONOUN	Ingenieur	$ARTICLE_AND_OCCUPATION
+Inspektor	Grundstücksbesitzer	$ARTICLE_AND_OCCUPATION wurde gefragt, ob das Haus, das $NOM_PRONOUN inspiziert hatte, irgendwelche Verletzungen des Baugesetzes aufwies.	$NOM_PRONOUN	Inspektor	$ARTICLE_AND_OCCUPATION
+Inspektor	Grundstücksbesitzer	$ARTICLE_AND_OCCUPATION sagte, dass es notwendig sei, dass man $ACC_PRONOUN alle Verletzungen des Baugesetzes melden lässt.	$ACC_PRONOUN	Inspektor	$ARTICLE_AND_OCCUPATION
+Inspektor	Grundstücksbesitzer	$ARTICLE_AND_OCCUPATION wurde gefragt, ob $POSS_PRONOUN Inspektionen normalerweise länger als eine Stunde dauern würden.	$POSS_PRONOUN	Inspektor	$ARTICLE_AND_OCCUPATION
+Inspektor	Grundstücksbesitzer	$ARTICLE_AND_OCCUPATION prüfte gründlich, ob eine Verletzung geltenden Rechts vorlag, weil $DAT_PRONOUN der Auftrag erteilt wurde.	$DAT_PRONOUN	Inspektor	$ARTICLE_AND_OCCUPATION
+Kassierer	Kunde	$ARTICLE_AND_OCCUPATION sagte, dass $NOM_PRONOUN bei Einkäufen unter zehn Dollar keine Kreditkarten akzeptieren könne.	$NOM_PRONOUN	Kassierer	$ARTICLE_AND_OCCUPATION
+Kassierer	Kunde	$ARTICLE_AND_OCCUPATION wollte Minderjährigen keine Tabakwaren verkaufen, da man $ACC_PRONOUN sonst zur Rechenschaft ziehen könnte.	$ACC_PRONOUN	Kassierer	$ARTICLE_AND_OCCUPATION
+Kassierer	Kunde	$ARTICLE_AND_OCCUPATION sagte, dass $POSS_PRONOUN Schicht bald zu Ende sei.	$POSS_PRONOUN	Kassierer	$ARTICLE_AND_OCCUPATION
+Kassierer	Kunde	$ARTICLE_AND_OCCUPATION gab das Wechselgeld zurück, nachdem $DAT_PRONOUN zu viel Geld gegeben wurde.	$DAT_PRONOUN	Kassierer	$ARTICLE_AND_OCCUPATION
+Klempner	Mieter	$ARTICLE_AND_OCCUPATION wurde gefragt, ob $NOM_PRONOUN kommen könnte, um ein kaputtes Rohr zu reparieren.	$NOM_PRONOUN	Klempner	$ARTICLE_AND_OCCUPATION
+Klempner	Mieter	$ARTICLE_AND_OCCUPATION konnte das Rohr schnell reparieren, da es eine Routineaufgabe für $ACC_PRONOUN war.	$ACC_PRONOUN	Klempner	$ARTICLE_AND_OCCUPATION
+Klempner	Mieter	$ARTICLE_AND_OCCUPATION wurde hinzugezogen, um $POSS_PRONOUN Meinung zu dem leckenden Wasserhahn abzugeben.	$POSS_PRONOUN	Klempner	$ARTICLE_AND_OCCUPATION
+Klempner	Mieter	$ARTICLE_AND_OCCUPATION reparierte den Abfluss sorgfältig, damit man $DAT_PRONOUN eine gute Bewertung hinterließ.	$DAT_PRONOUN	Klempner	$ARTICLE_AND_OCCUPATION
+Krankenpfleger	Patient	$ARTICLE_AND_OCCUPATION sagte, dass $NOM_PRONOUN in einer Stunde mit der Arbeit fertig sei.	$NOM_PRONOUN	Krankenpfleger	$ARTICLE_AND_OCCUPATION
+Krankenpfleger	Patient	$ARTICLE_AND_OCCUPATION bat um Erlaubnis, $ACC_PRONOUN eine Blutprobe nehmen zu lassen.	$ACC_PRONOUN	Krankenpfleger	$ARTICLE_AND_OCCUPATION
+Krankenpfleger	Patient	$ARTICLE_AND_OCCUPATION sagte, dass $POSS_PRONOUN Schicht in einer Stunde enden würde.	$POSS_PRONOUN	Krankenpfleger	$ARTICLE_AND_OCCUPATION
+Krankenpfleger	Patient	$ARTICLE_AND_OCCUPATION pflegte liebevoll, weil es $DAT_PRONOUN Spaß machte mit Menschen zu arbeiten.	$DAT_PRONOUN	Krankenpfleger	$ARTICLE_AND_OCCUPATION
+Küchenchef	Kunde	$ARTICLE_AND_OCCUPATION fragte sich, ob $NOM_PRONOUN ein anderes Dessert machen sollte.	$NOM_PRONOUN	Küchenchef	$ARTICLE_AND_OCCUPATION
+Küchenchef	Kunde	$ARTICLE_AND_OCCUPATION behauptete, dass $ACC_PRONOUN die Hitze in der Küche nicht stören würde.	$ACC_PRONOUN	Küchenchef	$ARTICLE_AND_OCCUPATION
+Küchenchef	Kunde	$ARTICLE_AND_OCCUPATION sagte, dass $POSS_PRONOUN Restaurants gerade erst eröffnet wurden.	$POSS_PRONOUN	Küchenchef	$ARTICLE_AND_OCCUPATION
+Küchenchef	Kunde	$ARTICLE_AND_OCCUPATION bereitete vor der Schicht die Gerichte vor, weil $DAT_PRONOUN so das Kochen leichter fiel.	$DAT_PRONOUN	Küchenchef	$ARTICLE_AND_OCCUPATION
+Lehrer	Student	$ARTICLE_AND_OCCUPATION wurde gefragt, ob $NOM_PRONOUN eine Verlängerung der Aufgabe gewähren könnte.	$NOM_PRONOUN	Lehrer	$ARTICLE_AND_OCCUPATION
+Lehrer	Student	$ARTICLE_AND_OCCUPATION gab ausführliche Rückmeldungen, damit man $ACC_PRONOUN erklären ließ, wie man den Aufsatz verbessern könne.	$ACC_PRONOUN	Lehrer	$ARTICLE_AND_OCCUPATION
+Lehrer	Student	$ARTICLE_AND_OCCUPATION wurde gefragt, ob $POSS_PRONOUN Benotung streng sei.	$POSS_PRONOUN	Lehrer	$ARTICLE_AND_OCCUPATION
+Lehrer	Student	$ARTICLE_AND_OCCUPATION konnte geduldig erklären, wenn man $DAT_PRONOUN zuhörte.	$DAT_PRONOUN	Lehrer	$ARTICLE_AND_OCCUPATION
+Maler	Käufer	$ARTICLE_AND_OCCUPATION verkaufte eine ganze Sammlung von Gemälden, weil $NOM_PRONOUN die Galerie schließen musste.	$NOM_PRONOUN	Maler	$ARTICLE_AND_OCCUPATION
+Maler	Käufer	$ARTICLE_AND_OCCUPATION wollte, dass man $ACC_PRONOUN anhand der Maltechnik erkennt.	$ACC_PRONOUN	Maler	$ARTICLE_AND_OCCUPATION
+Maler	Käufer	$ARTICLE_AND_OCCUPATION war für $POSS_PRONOUN schöne und komplizierte Arbeit bekannt.	$POSS_PRONOUN	Maler	$ARTICLE_AND_OCCUPATION
+Maler	Käufer	$ARTICLE_AND_OCCUPATION begann direkt zu malen, weil $DAT_PRONOUN während des Malens die besten Einfälle kamen.	$DAT_PRONOUN	Maler	$ARTICLE_AND_OCCUPATION
+Maschinist	Schüler	$ARTICLE_AND_OCCUPATION führte in der Schule einen Laserschneider vor, sagte aber, dass $NOM_PRONOUN über dieses eine Mal hinaus keine Aufsicht durch Erwachsene bereitstellen könne.	$NOM_PRONOUN	Maschinist	$ARTICLE_AND_OCCUPATION
+Maschinist	Schüler	$ARTICLE_AND_OCCUPATION hatte einen Laserschneider dabei, weil man $ACC_PRONOUN darum gebeten hatte.	$ACC_PRONOUN	Maschinist	$ARTICLE_AND_OCCUPATION
+Maschinist	Schüler	$ARTICLE_AND_OCCUPATION sagte, dass $POSS_PRONOUN Anwesenheit erforderlich sei, solange die Maschine lief.	$POSS_PRONOUN	Maschinist	$ARTICLE_AND_OCCUPATION
+Maschinist	Schüler	$ARTICLE_AND_OCCUPATION bediente die Maschine langsam und sorgfältig, weil man $DAT_PRONOUN zusah.	$DAT_PRONOUN	Maschinist	$ARTICLE_AND_OCCUPATION
+Mechaniker	Kunde	$ARTICLE_AND_OCCUPATION rief an, um zu sagen, dass $NOM_PRONOUN die Reparatur beendet hatte.	$NOM_PRONOUN	Mechaniker	$ARTICLE_AND_OCCUPATION
+Mechaniker	Kunde	$ARTICLE_AND_OCCUPATION erwartete, dass man $ACC_PRONOUN rechtzeitig bezahlte.	$ACC_PRONOUN	Mechaniker	$ARTICLE_AND_OCCUPATION
+Mechaniker	Kunde	$ARTICLE_AND_OCCUPATION sagte, dass $POSS_PRONOUN Preise gestiegen seien.	$POSS_PRONOUN	Mechaniker	$ARTICLE_AND_OCCUPATION
+Mechaniker	Kunde	$ARTICLE_AND_OCCUPATION reparierte die Maschine, weil man $DAT_PRONOUN den Auftrag anvertraut hatte.	$DAT_PRONOUN	Mechaniker	$ARTICLE_AND_OCCUPATION
+Pathologe	Verstorbener	$ARTICLE_AND_OCCUPATION musste Blutproben testen, weil $NOM_PRONOUN diese auf Vergiftung überprüfen musste.	$NOM_PRONOUN	Pathologe	$ARTICLE_AND_OCCUPATION
+Pathologe	Verstorbener	$ARTICLE_AND_OCCUPATION bekam Proben zur Verfügung gestellt, damit man $ACC_PRONOUN eine Analyse durchführen ließ.	$ACC_PRONOUN	Pathologe	$ARTICLE_AND_OCCUPATION
+Pathologe	Verstorbener	$ARTICLE_AND_OCCUPATION erhielt Gewebeproben, um $POSS_PRONOUN Meinung zu der Vergiftung abzugeben.	$POSS_PRONOUN	Pathologe	$ARTICLE_AND_OCCUPATION
+Pathologe	Verstorbener	$ARTICLE_AND_OCCUPATION untersuchte akribisch, weil $DAT_PRONOUN die Todesursache nicht mitgeteilt wurde.	$DAT_PRONOUN	Pathologe	$ARTICLE_AND_OCCUPATION
+Planer	Anwohner	$ARTICLE_AND_OCCUPATION musste sich anhören, dass $NOM_PRONOUN die Natur mit dem neuen Flughafen zerstören würde.	$NOM_PRONOUN	Planer	$ARTICLE_AND_OCCUPATION
+Planer	Anwohner	$ARTICLE_AND_OCCUPATION musste die Planung überdenken, als $ACC_PRONOUN die ersten Widersprüche erreichten.	$ACC_PRONOUN	Planer	$ARTICLE_AND_OCCUPATION
+Planer	Anwohner	$ARTICLE_AND_OCCUPATION wurde darauf hingewiesen, dass $POSS_PRONOUN Vorschläge für den Bau des Flughafens auf heftigen Widerstand stoßen werden.	$POSS_PRONOUN	Planer	$ARTICLE_AND_OCCUPATION
+Planer	Anwohner	$ARTICLE_AND_OCCUPATION musste die Pläne überdenken, weil $DAT_PRONOUN widersprochen wurde.	$DAT_PRONOUN	Planer	$ARTICLE_AND_OCCUPATION
+Polizist	Demonstrant	$ARTICLE_AND_OCCUPATION führte eine Verhaftung durch, obwohl $NOM_PRONOUN einen Urlaubstag hatte.	$NOM_PRONOUN	Polizist	$ARTICLE_AND_OCCUPATION
+Polizist	Demonstrant	$ARTICLE_AND_OCCUPATION fühlte sich verpflichtet durchzugreifen, weil man $ACC_PRONOUN beleidigt hatte.	$ACC_PRONOUN	Polizist	$ARTICLE_AND_OCCUPATION
+Polizist	Demonstrant	$ARTICLE_AND_OCCUPATION sagte, es sei $POSS_PRONOUN Pflicht, den Frieden zu wahren.	$POSS_PRONOUN	Polizist	$ARTICLE_AND_OCCUPATION
+Polizist	Demonstrant	$ARTICLE_AND_OCCUPATION verhängte ein Bußgeld, weil $DAT_PRONOUN kein Respekt entgegen gebracht wurde.	$DAT_PRONOUN	Polizist	$ARTICLE_AND_OCCUPATION
+Praktiker	Patient	$ARTICLE_AND_OCCUPATION machte einen Hausbesuch, weil $NOM_PRONOUN sich verpflichtet fühlte.	$NOM_PRONOUN	Praktiker	$ARTICLE_AND_OCCUPATION
+Praktiker	Patient	$ARTICLE_AND_OCCUPATION führte eine gründliche Untersuchung durch, damit man $ACC_PRONOUN eine Diagnose aufstellen ließ.	$ACC_PRONOUN	Praktiker	$ARTICLE_AND_OCCUPATION
+Praktiker	Patient	$ARTICLE_AND_OCCUPATION gab $POSS_PRONOUN medizinische Meinung ab.	$POSS_PRONOUN	Praktiker	$ARTICLE_AND_OCCUPATION
+Praktiker	Patient	$ARTICLE_AND_OCCUPATION musste zuerst eine Untersuchung durchführen, weil $DAT_PRONOUN ein klares Verletzungsbild fehlte.	$DAT_PRONOUN	Praktiker	$ARTICLE_AND_OCCUPATION
+Programmierer	Student	$ARTICLE_AND_OCCUPATION meldete sich freiwillig, um Programmierkenntnisse zu vermitteln, weil $NOM_PRONOUN sich gutes Karma verdienen wollte.	$NOM_PRONOUN	Programmierer	$ARTICLE_AND_OCCUPATION
+Programmierer	Student	$ARTICLE_AND_OCCUPATION konnte die Schwierigkeit der Aufgabe nicht korrekt einschätzen, weil $ACC_PRONOUN die Aufgabe unterforderte.	$ACC_PRONOUN	Programmierer	$ARTICLE_AND_OCCUPATION
+Programmierer	Student	$ARTICLE_AND_OCCUPATION gab $POSS_PRONOUN Rückmeldung zu dem geschriebenen Code.	$POSS_PRONOUN	Programmierer	$ARTICLE_AND_OCCUPATION
+Programmierer	Student	$ARTICLE_AND_OCCUPATION schrieb effizienten Code, weil $DAT_PRONOUN zugesehen wurde.	$DAT_PRONOUN	Programmierer	$ARTICLE_AND_OCCUPATION
+Psychologe	Patient	$ARTICLE_AND_OCCUPATION hatte einen Fragebogen konzipiert, damit $NOM_PRONOUN eine vorläufige Bewertung vornehmen konnte.	$NOM_PRONOUN	Psychologe	$ARTICLE_AND_OCCUPATION
+Psychologe	Patient	$ARTICLE_AND_OCCUPATION hatte angeordnet, dass alle Patientenakten an $ACC_PRONOUN geschickt werden.	$ACC_PRONOUN	Psychologe	$ARTICLE_AND_OCCUPATION
+Psychologe	Patient	$ARTICLE_AND_OCCUPATION sprach über $POSS_PRONOUN ersten Eindrücke.	$POSS_PRONOUN	Psychologe	$ARTICLE_AND_OCCUPATION
+Psychologe	Patient	$ARTICLE_AND_OCCUPATION hörte aufmerksam zu, wenn $DAT_PRONOUN Probleme anvertraut wurden.	$DAT_PRONOUN	Psychologe	$ARTICLE_AND_OCCUPATION
+Psychotherapeut	Patient	$ARTICLE_AND_OCCUPATION sagte, dass $NOM_PRONOUN eine offizielle Pflicht habe, bestimmte Probleme zu melden.	$NOM_PRONOUN	Psychotherapeut	$ARTICLE_AND_OCCUPATION
+Psychotherapeut	Patient	$ARTICLE_AND_OCCUPATION hatte zweimal pro Woche Sitzungen, damit man $ACC_PRONOUN den Fortschritt genau überwachen ließ.	$ACC_PRONOUN	Psychotherapeut	$ARTICLE_AND_OCCUPATION
+Psychotherapeut	Patient	$ARTICLE_AND_OCCUPATION sagte, dass $POSS_PRONOUN Qualifikationen in der Psychologie liegen.	$POSS_PRONOUN	Psychotherapeut	$ARTICLE_AND_OCCUPATION
+Psychotherapeut	Patient	$ARTICLE_AND_OCCUPATION hörte die Probleme in Ruhe an, damit man sich $DAT_PRONOUN gegenüber öffnete.	$DAT_PRONOUN	Psychotherapeut	$ARTICLE_AND_OCCUPATION
+Rechtsanwaltsgehilfe	Mandant	$ARTICLE_AND_OCCUPATION vergaß, den Papierkram einzureichen, so dass $NOM_PRONOUN gefeuert wurde.	$NOM_PRONOUN	Rechtsanwaltsgehilfe	$ARTICLE_AND_OCCUPATION
+Rechtsanwaltsgehilfe	Mandant	$ARTICLE_AND_OCCUPATION hatte eine Präsentation vorbereitet, damit man $ACC_PRONOUN erklären ließ, wie Sammelklagen funktionieren.	$ACC_PRONOUN	Rechtsanwaltsgehilfe	$ARTICLE_AND_OCCUPATION
+Rechtsanwaltsgehilfe	Mandant	$ARTICLE_AND_OCCUPATION wurde gefragt, ob $POSS_PRONOUN Kanzlei Fälle zum Einwanderungsrecht bearbeitet.	$POSS_PRONOUN	Rechtsanwaltsgehilfe	$ARTICLE_AND_OCCUPATION
+Rechtsanwaltsgehilfe	Mandant	$ARTICLE_AND_OCCUPATION bereitete den Fall sorgfältig auf, damit man $DAT_PRONOUN juristische Kenntnisse zusprach.	$DAT_PRONOUN	Rechtsanwaltsgehilfe	$ARTICLE_AND_OCCUPATION
+Rezeptionist	Besucher	$ARTICLE_AND_OCCUPATION wurde gefragt, ob $NOM_PRONOUN die Wartezeit abschätzen könnte.	$NOM_PRONOUN	Rezeptionist	$ARTICLE_AND_OCCUPATION
+Rezeptionist	Besucher	$ARTICLE_AND_OCCUPATION wurde beauftragt, weil man $ACC_PRONOUN eine neue Gästekarte ausstellen ließ.	$ACC_PRONOUN	Rezeptionist	$ARTICLE_AND_OCCUPATION
+Rezeptionist	Besucher	$ARTICLE_AND_OCCUPATION gab $POSS_PRONOUN Schätzung der Wartezeit an.	$POSS_PRONOUN	Rezeptionist	$ARTICLE_AND_OCCUPATION
+Rezeptionist	Besucher	$ARTICLE_AND_OCCUPATION grüßte freundlich, wenn man $DAT_PRONOUN freundlich begegnete.	$DAT_PRONOUN	Rezeptionist	$ARTICLE_AND_OCCUPATION
+Sachbearbeiter	Kunde	$ARTICLE_AND_OCCUPATION wurde gefragt, auf welchen Formularen $NOM_PRONOUN die Unterschriften wünschte.	$NOM_PRONOUN	Sachbearbeiter	$ARTICLE_AND_OCCUPATION
+Sachbearbeiter	Kunde	$ARTICLE_AND_OCCUPATION wollte, dass man $ACC_PRONOUN nach dem Preis fragt.	$ACC_PRONOUN	Sachbearbeiter	$ARTICLE_AND_OCCUPATION
+Sachbearbeiter	Kunde	$ARTICLE_AND_OCCUPATION wollte, dass $POSS_PRONOUN Stifte nicht geklaut werden.	$POSS_PRONOUN	Sachbearbeiter	$ARTICLE_AND_OCCUPATION
+Sachbearbeiter	Kunde	$ARTICLE_AND_OCCUPATION arbeitete gewissenhaft an dem Vorfall, weil $DAT_PRONOUN der Auftrag erteilt wurde.	$DAT_PRONOUN	Sachbearbeiter	$ARTICLE_AND_OCCUPATION
+Sanitäter	Verunglückter	$ARTICLE_AND_OCCUPATION führte eine Herz-Lungen-Wiederbelebung durch, weil $NOM_PRONOUN eine Erste-Hilfe-Ausbildung hatte.	$NOM_PRONOUN	Sanitäter	$ARTICLE_AND_OCCUPATION
+Sanitäter	Verunglückter	$ARTICLE_AND_OCCUPATION führte die Herz-Lungen-Wiederbelebung durch, damit man $ACC_PRONOUN das Protokoll einhalten ließ.	$ACC_PRONOUN	Sanitäter	$ARTICLE_AND_OCCUPATION
+Sanitäter	Verunglückter	$ARTICLE_AND_OCCUPATION musste $POSS_PRONOUN Hände warm halten, um eine Herz-Lungen-Wiederbelebung durchzuführen.	$POSS_PRONOUN	Sanitäter	$ARTICLE_AND_OCCUPATION
+Sanitäter	Verunglückter	$ARTICLE_AND_OCCUPATION half sofort, wenn nach $DAT_PRONOUN gerufen wurde.	$DAT_PRONOUN	Sanitäter	$ARTICLE_AND_OCCUPATION
+Schreiner	Schaulustiger	$ARTICLE_AND_OCCUPATION sagte, dass $NOM_PRONOUN seit drei Wochen am Haus arbeitete.	$NOM_PRONOUN	Schreiner	$ARTICLE_AND_OCCUPATION
+Schreiner	Schaulustiger	$ARTICLE_AND_OCCUPATION sprach über die Arbeit, damit man $ACC_PRONOUN anerkannte.	$ACC_PRONOUN	Schreiner	$ARTICLE_AND_OCCUPATION
+Schreiner	Schaulustiger	$ARTICLE_AND_OCCUPATION gab harte Hüte aus, um sicherzustellen, dass $POSS_PRONOUN Baustelle unfallfrei blieb.	$POSS_PRONOUN	Schreiner	$ARTICLE_AND_OCCUPATION
+Schreiner	Schaulustiger	$ARTICLE_AND_OCCUPATION schliff einen Tisch sorgfältig ab, weil $DAT_PRONOUN zugesehen wurde.	$DAT_PRONOUN	Schreiner	$ARTICLE_AND_OCCUPATION
+Sekretär	Besucher	$ARTICLE_AND_OCCUPATION sagte, es müsse eine Anmeldung vorliegen, damit $NOM_PRONOUN das Gäste Protokoll aktualisieren konnte.	$NOM_PRONOUN	Sekretär	$ARTICLE_AND_OCCUPATION
+Sekretär	Besucher	$ARTICLE_AND_OCCUPATION benötigte Informationen, damit man $ACC_PRONOUN das Gästebuch aktualisieren ließ.	$ACC_PRONOUN	Sekretär	$ARTICLE_AND_OCCUPATION
+Sekretär	Besucher	$ARTICLE_AND_OCCUPATION sagte, dass $POSS_PRONOUN Vorgesetzten in Kürze dem Termin beitreten würden.	$POSS_PRONOUN	Sekretär	$ARTICLE_AND_OCCUPATION
+Sekretär	Besucher	$ARTICLE_AND_OCCUPATION organisierte einen passenden Termin, wenn man $DAT_PRONOUN schrieb.	$DAT_PRONOUN	Sekretär	$ARTICLE_AND_OCCUPATION
+Spezialist	Patient	$ARTICLE_AND_OCCUPATION wurde empfohlen, weil $NOM_PRONOUN Kenntnisse über seltene Hauterkrankungen hatte.	$NOM_PRONOUN	Spezialist	$ARTICLE_AND_OCCUPATION
+Spezialist	Patient	$ARTICLE_AND_OCCUPATION wurde konsultiert, weil man $ACC_PRONOUN um eine zweite Meinung bat.	$ACC_PRONOUN	Spezialist	$ARTICLE_AND_OCCUPATION
+Spezialist	Patient	$ARTICLE_AND_OCCUPATION schrieb eine Liste, auf der $POSS_PRONOUN Anweisungen für die Einnahme neuer Medikamente standen.	$POSS_PRONOUN	Spezialist	$ARTICLE_AND_OCCUPATION
+Spezialist	Patient	$ARTICLE_AND_OCCUPATION diagnostizierte präzise, weil man $DAT_PRONOUN die Situation korrekt beschrieb.	$DAT_PRONOUN	Spezialist	$ARTICLE_AND_OCCUPATION
+Sportmediziner	Patient	$ARTICLE_AND_OCCUPATION sagte, dass $NOM_PRONOUN nächste Woche im Urlaub sei.	$NOM_PRONOUN	Sportmediziner	$ARTICLE_AND_OCCUPATION
+Sportmediziner	Patient	$ARTICLE_AND_OCCUPATION stellte einige medizinische Fragen, damit man $ACC_PRONOUN entscheiden ließ, welche Medikamente verschrieben werden sollten.	$ACC_PRONOUN	Sportmediziner	$ARTICLE_AND_OCCUPATION
+Sportmediziner	Patient	$ARTICLE_AND_OCCUPATION sagte, dass man auf $POSS_PRONOUN Bestätigung warten soll, bevor man mit dem Training weitermache.	$POSS_PRONOUN	Sportmediziner	$ARTICLE_AND_OCCUPATION
+Sportmediziner	Patient	$ARTICLE_AND_OCCUPATION wurde immer wieder von Sportvereinen konsultiert, weil man $DAT_PRONOUN seit Jahren vertraute.	$DAT_PRONOUN	Sportmediziner	$ARTICLE_AND_OCCUPATION
+Techniker	Kunde	$ARTICLE_AND_OCCUPATION sagte, dass $NOM_PRONOUN die Reparatur beendet habe.	$NOM_PRONOUN	Techniker	$ARTICLE_AND_OCCUPATION
+Techniker	Kunde	$ARTICLE_AND_OCCUPATION rief an, damit durch $ACC_PRONOUN übermittelt werden konnte, dass die Reparaturen beendet seien.	$ACC_PRONOUN	Techniker	$ARTICLE_AND_OCCUPATION
+Techniker	Kunde	$ARTICLE_AND_OCCUPATION hatte erfahren, dass $POSS_PRONOUN Gebühren zu hoch seien.	$POSS_PRONOUN	Techniker	$ARTICLE_AND_OCCUPATION
+Techniker	Kunde	$ARTICLE_AND_OCCUPATION reparierte den Router fachmännisch, nachdem $DAT_PRONOUN ein Kaffee gereicht wurde.	$DAT_PRONOUN	Techniker	$ARTICLE_AND_OCCUPATION
+Therapeut	Heranwachsender	$ARTICLE_AND_OCCUPATION war beliebt, weil $NOM_PRONOUN vertrauenswürdig schien.	$NOM_PRONOUN	Therapeut	$ARTICLE_AND_OCCUPATION
+Therapeut	Heranwachsender	$ARTICLE_AND_OCCUPATION nutzte gerne Fragebögen, damit eine Bewertung durch $ACC_PRONOUN vorgenommen werden konnte.	$ACC_PRONOUN	Therapeut	$ARTICLE_AND_OCCUPATION
+Therapeut	Heranwachsender	$ARTICLE_AND_OCCUPATION musste $POSS_PRONOUN Qualifikationen in einem Gespräch unter Beweis stellen.	$POSS_PRONOUN	Therapeut	$ARTICLE_AND_OCCUPATION
+Therapeut	Heranwachsender	$ARTICLE_AND_OCCUPATION versuchte einfühlsam zu sein, weil man $DAT_PRONOUN vertraute.	$DAT_PRONOUN	Therapeut	$ARTICLE_AND_OCCUPATION
+Tierarzt	Besitzer	$ARTICLE_AND_OCCUPATION sagte, dass $NOM_PRONOUN an Wochenenden nicht arbeitet.	$NOM_PRONOUN	Tierarzt	$ARTICLE_AND_OCCUPATION
+Tierarzt	Besitzer	$ARTICLE_AND_OCCUPATION fragte nach, damit man $ACC_PRONOUN verstehen ließ, wie die Katze zu Hause gefüttert worden war.	$ACC_PRONOUN	Tierarzt	$ARTICLE_AND_OCCUPATION
+Tierarzt	Besitzer	$ARTICLE_AND_OCCUPATION hatte ein Schild, auf dem stand, dass $POSS_PRONOUN Klinik an Wochenenden nicht geöffnet war.	$POSS_PRONOUN	Tierarzt	$ARTICLE_AND_OCCUPATION
+Tierarzt	Besitzer	$ARTICLE_AND_OCCUPATION entschied das Tier einzuschläfern, weil $DAT_PRONOUN keine andere Wahl blieb.	$DAT_PRONOUN	Tierarzt	$ARTICLE_AND_OCCUPATION
+Verkäufer	Kunde	$ARTICLE_AND_OCCUPATION wurde gefragt, ob $NOM_PRONOUN die Preise für jedes Produkt erklären könnte.	$NOM_PRONOUN	Verkäufer	$ARTICLE_AND_OCCUPATION
+Verkäufer	Kunde	$ARTICLE_AND_OCCUPATION erhielt eine Liste von Produkten, nach denen man $ACC_PRONOUN im Lager suchen ließ.	$ACC_PRONOUN	Verkäufer	$ARTICLE_AND_OCCUPATION
+Verkäufer	Kunde	$ARTICLE_AND_OCCUPATION wurde gefragt, ob $POSS_PRONOUN Preise auch Steuern beinhalten.	$POSS_PRONOUN	Verkäufer	$ARTICLE_AND_OCCUPATION
+Verkäufer	Kunde	$ARTICLE_AND_OCCUPATION beriet kompetent, wenn $DAT_PRONOUN eine Frage gestellt wurde.	$DAT_PRONOUN	Verkäufer	$ARTICLE_AND_OCCUPATION
+Wirtschaftsprüfer	Steuerzahler	$ARTICLE_AND_OCCUPATION fragte, ob $NOM_PRONOUN Unklarheiten zu den Steuervorschriften aufklären könne.	$NOM_PRONOUN	Wirtschaftsprüfer	$ARTICLE_AND_OCCUPATION
+Wirtschaftsprüfer	Steuerzahler	$ARTICLE_AND_OCCUPATION musste eine Präsentation halten, damit man $ACC_PRONOUN das neue Steuersystem im Detail erläutern ließ.	$ACC_PRONOUN	Wirtschaftsprüfer	$ARTICLE_AND_OCCUPATION
+Wirtschaftsprüfer	Steuerzahler	$ARTICLE_AND_OCCUPATION fragte, ob $POSS_PRONOUN Erklärung des neuen Steuersystems eindeutig sei.	$POSS_PRONOUN	Wirtschaftsprüfer	$ARTICLE_AND_OCCUPATION
+Wirtschaftsprüfer	Steuerzahler	$ARTICLE_AND_OCCUPATION prüfte die Bilanz genau, weil man $DAT_PRONOUN den Auftrag erteilte.	$DAT_PRONOUN	Wirtschaftsprüfer	$ARTICLE_AND_OCCUPATION
+Wissenschaftler	Student	$ARTICLE_AND_OCCUPATION schreibt eine Stelle aus, weil $NOM_PRONOUN einen Laboranten braucht.	$NOM_PRONOUN	Wissenschaftler	$ARTICLE_AND_OCCUPATION
+Wissenschaftler	Student	$ARTICLE_AND_OCCUPATION war bereit jeden einzustellen, der $ACC_PRONOUN nach einer Stelle fragte.	$ACC_PRONOUN	Wissenschaftler	$ARTICLE_AND_OCCUPATION
+Wissenschaftler	Student	$ARTICLE_AND_OCCUPATION stellte ein, weil $POSS_PRONOUN Anzahl an Experimenten im Labor wuchs.	$POSS_PRONOUN	Wissenschaftler	$ARTICLE_AND_OCCUPATION
+Wissenschaftler	Student	$ARTICLE_AND_OCCUPATION konnte bis ins kleinste Detail forschen, weil $DAT_PRONOUN ein Team zur Seite stand.	$DAT_PRONOUN	Wissenschaftler	$ARTICLE_AND_OCCUPATION

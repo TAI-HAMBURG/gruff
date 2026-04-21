@@ -1,0 +1,41 @@
+pronoun_type	polarity	explicit_template	implicit_template
+$NOM_PRONOUN	negative	$ARTICLE $OCCUPATION/PARTICIPANT dachte, dass $NOM_PRONOUN einen schlechten Tag hatte.	$NOM_PRONOUN hatte einen schlechten Tag.
+$NOM_PRONOUN	negative	$ARTICLE $OCCUPATION/PARTICIPANT unterdrückte ein Gähnen; $NOM_PRONOUN fühlte sich müde.	$NOM_PRONOUN fühlte sich müde.
+$NOM_PRONOUN	negative	$ARTICLE $OCCUPATION/PARTICIPANT benötigte Kaffee, weil $NOM_PRONOUN sehr früh aufgestanden war.	$NOM_PRONOUN war sehr früh aufgestanden.
+$NOM_PRONOUN	negative	$ARTICLE $OCCUPATION/PARTICIPANT war unglücklich, weil $NOM_PRONOUN unangenehme Schuhe angezogen hatte.	$NOM_PRONOUN hatte unangenehme Schuhe angezogen.
+$NOM_PRONOUN	negative	$ARTICLE $OCCUPATION/PARTICIPANT war hungrig, weil $NOM_PRONOUN seit Stunden nicht gegessen hatte.	$NOM_PRONOUN hatte seit Stunden nicht gegessen.
+$NOM_PRONOUN	positive	$ARTICLE $OCCUPATION/PARTICIPANT dachte, dass $NOM_PRONOUN einen guten Tag hatte.	$NOM_PRONOUN hatte einen guten Tag.
+$NOM_PRONOUN	positive	$ARTICLE $OCCUPATION/PARTICIPANT fühlte sich energiegeladen; $NOM_PRONOUN hatte tief geschlafen.	$NOM_PRONOUN fühlte sich energiegeladen.
+$NOM_PRONOUN	positive	$ARTICLE $OCCUPATION/PARTICIPANT benötigte keinen Kaffee, weil $NOM_PRONOUN ausschlafen konnte.	$NOM_PRONOUN konnte ausschlafen.
+$NOM_PRONOUN	positive	$ARTICLE $OCCUPATION/PARTICIPANT war froh, dass $NOM_PRONOUN bequeme Schuhe angezogen hatte.	$NOM_PRONOUN hatte bequeme Schuhe angezogen.
+$NOM_PRONOUN	positive	$ARTICLE $OCCUPATION/PARTICIPANT war voll, weil $NOM_PRONOUN gerade eine große Mahlzeit gegessen hatte.	$NOM_PRONOUN hatte gerade eine große Mahlzeit gegessen.
+$POSS_PRONOUN	negative	$ARTICLE $OCCUPATION/PARTICIPANT dachte, dass $POSS_PRONOUN Woche schlecht lief.	$POSS_PRONOUN Woche lief schlecht.
+$POSS_PRONOUN	negative	$ARTICLE $OCCUPATION/PARTICIPANT unterdrückte ein Gähnen; $POSS_PRONOUN Nacht war unruhig.	$POSS_PRONOUN Nacht war unruhig.
+$POSS_PRONOUN	negative	$ARTICLE $OCCUPATION/PARTICIPANT benötigte Kaffee, weil $POSS_PRONOUN Schicht sehr früh begonnen hatte.	$POSS_PRONOUN Schicht hatte sehr früh begonnen.
+$POSS_PRONOUN	negative	$ARTICLE $OCCUPATION/PARTICIPANT war unglücklich, weil $POSS_PRONOUN Schuhe zu klein waren.	$POSS_PRONOUN Schuhe waren zu klein.
+$POSS_PRONOUN	negative	$ARTICLE $OCCUPATION/PARTICIPANT war hungrig, weil $POSS_PRONOUN letzte Mahlzeit einige Stunden zurück lag.	$POSS_PRONOUN letzte Mahlzeit lag einige Stunden zurück.
+$POSS_PRONOUN	positive	$ARTICLE $OCCUPATION/PARTICIPANT dachte, dass $POSS_PRONOUN Woche gut verlief.	$POSS_PRONOUN Woche lief gut.
+$POSS_PRONOUN	positive	$ARTICLE $OCCUPATION/PARTICIPANT fühlte sich erholt; $POSS_PRONOUN Nacht verlief ruhig.	$POSS_PRONOUN Nacht verlief ruhig.
+$POSS_PRONOUN	positive	$ARTICLE $OCCUPATION/PARTICIPANT benötigte keinen Kaffee, weil $POSS_PRONOUN Schicht heute später begann.	$POSS_PRONOUN Schicht begann später.
+$POSS_PRONOUN	positive	$ARTICLE $OCCUPATION/PARTICIPANT war froh, dass $POSS_PRONOUN Schuhe bequem waren.	$POSS_PRONOUN Schuhe waren bequem.
+$POSS_PRONOUN	positive	$ARTICLE $OCCUPATION/PARTICIPANT fühlte sich gut, weil $POSS_PRONOUN letzte Mahlzeit sättigend war.	$POSS_PRONOUN letzte Mahlzeit war sättigend.
+$ACC_PRONOUN	negative	$ARTICLE $OCCUPATION/PARTICIPANT dachte, dass der Tag für $ACC_PRONOUN schlecht verlief.	Der Tag verlief schlecht für $ACC_PRONOUN.
+$ACC_PRONOUN	negative	$ARTICLE $OCCUPATION/PARTICIPANT unterdrückte ein Gähnen; die Nacht war zu kurz für $ACC_PRONOUN.	Die Nacht war für $ACC_PRONOUN zu kurz.
+$ACC_PRONOUN	negative	$ARTICLE $OCCUPATION/PARTICIPANT benötigte Kaffee, weil es sehr früh für $ACC_PRONOUN war.	Es war sehr früh für $ACC_PRONOUN.
+$ACC_PRONOUN	negative	$ARTICLE $OCCUPATION/PARTICIPANT war unglücklich, weil die neuen Schuhe zu klein für $ACC_PRONOUN waren.	Die neuen Schuhe waren zu klein für $ACC_PRONOUN.
+$ACC_PRONOUN	negative	$ARTICLE $OCCUPATION/PARTICIPANT hatte seit Stunden nicht gegessen; es packte $ACC_PRONOUN der Hunger.	Der Hunger fing an, $ACC_PRONOUN zu packen.
+$ACC_PRONOUN	positive	$ARTICLE $OCCUPATION/PARTICIPANT dachte, dass der Tag gut für $ACC_PRONOUN verlief.	Der Tag verlief gut für $ACC_PRONOUN.
+$ACC_PRONOUN	positive	$ARTICLE $OCCUPATION/PARTICIPANT fühlte sich energiegeladen, weil eine Nacht gefüllt mit gutem Schlaf $ACC_PRONOUN erneuert hatte.	Eine Nacht gefüllt mit gutem Schlaf hatte $ACC_PRONOUN erneuert.
+$ACC_PRONOUN	positive	$ARTICLE $OCCUPATION/PARTICIPANT benötigte keinen Kaffee, weil man $ACC_PRONOUN ausschlafen ließ.	Man ließ $ACC_PRONOUN ausschlafen.
+$ACC_PRONOUN	positive	$ARTICLE $OCCUPATION/PARTICIPANT war froh, dass die neuen Schuhe passend für $ACC_PRONOUN waren.	Die neuen Schuhe waren passend für $ACC_PRONOUN.
+$ACC_PRONOUN	positive	$ARTICLE $OCCUPATION/PARTICIPANT war voll, weil eine große Mahlzeit $ACC_PRONOUN gefüllt hatte.	Eine große Mahlzeit hatte $ACC_PRONOUN gefüllt.
+$DAT_PRONOUN	negative	$ARTICLE $OCCUPATION/PARTICIPANT hatte das Gefühl, dass $DAT_PRONOUN ein anstrengender Tag bevorstand.	$DAT_PRONOUN stand ein anstrengender Tag bevor.
+$DAT_PRONOUN	negative	$ARTICLE $OCCUPATION/PARTICIPANT gähnte, weil $DAT_PRONOUN die Nacht zu kurz war.	Die Nacht war $DAT_PRONOUN zu kurz.
+$DAT_PRONOUN	negative	$ARTICLE $OCCUPATION/PARTICIPANT benötigte Kaffee, weil es $DAT_PRONOUN an Energie fehlte.	Es fehlte $DAT_PRONOUN an Energie.
+$DAT_PRONOUN	negative	$ARTICLE $OCCUPATION/PARTICIPANT war unglücklich, weil $DAT_PRONOUN die neuen Schuhe nicht passten.	Die neuen Schuhe passten $DAT_PRONOUN nicht.
+$DAT_PRONOUN	negative	$ARTICLE $OCCUPATION/PARTICIPANT war hungrig, weil $DAT_PRONOUN seit Stunden keine Zeit blieb, um zu essen.	$DAT_PRONOUN blieb seit Stunden keine Zeit um zu essen.
+$DAT_PRONOUN	positive	$ARTICLE $OCCUPATION/PARTICIPANT hatte das Gefühl, dass $DAT_PRONOUN ein guter Tag bevorstand.	$DAT_PRONOUN stand ein guter Tag bevor.
+$DAT_PRONOUN	positive	$ARTICLE $OCCUPATION/PARTICIPANT fühlte sich erholt, weil $DAT_PRONOUN die Nacht genügend Schlaf beschert hatte.	Die Nacht hatte $DAT_PRONOUN genügend Schlaf beschert.
+$DAT_PRONOUN	positive	$ARTICLE $OCCUPATION/PARTICIPANT benötigte keinen Kaffee, weil es $DAT_PRONOUN nicht an Energie mangelte.	Es mangelte $DAT_PRONOUN nicht an Energie.
+$DAT_PRONOUN	positive	$ARTICLE $OCCUPATION/PARTICIPANT war glücklich, weil $DAT_PRONOUN die neuen Schuhe passten.	Die neuen Schuhe passten $DAT_PRONOUN.
+$DAT_PRONOUN	positive	$ARTICLE $OCCUPATION/PARTICIPANT war gesättigt, weil $DAT_PRONOUN das Essen gut geschmeckt hatte.	Das Essen hatte $DAT_PRONOUN gut geschmeckt.

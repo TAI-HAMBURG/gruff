@@ -1,0 +1,15 @@
+# Ignore everything by default
+*
+
+# Keep this file
+!.gitignore
+
+# Keep README files
+!README.md
+!scripts/README.md
+
+# Keep selected directories
+!data/
+!data/**
+!scripts/
+!scripts/**
