@@ -224,19 +224,6 @@ python scripts/sample_for_humans.py
 python scripts/score_models.py 11_*.tsv 13_*.tsv 15_*.tsv
 ```
 
-## Upload recommendation
-
-If you upload only the scripts, include at least:
-- `scripts/`
-- a short description of the expected `data/task.tsv` and `data/context.tsv` formats
-
-Do not upload local artefacts such as:
-- `__pycache__/`
-- `.DS_Store`
-- `.idea/`
-
-And keep `constants.py` free of real secrets.
-
 ---
 
 ## Note
